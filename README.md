@@ -1,6 +1,8 @@
-# Pixegami Terminal Profile
+# Pixegami Terminal Profile Gruvbox Dark Fork 
 
-![terminal](./terminal_screenshot.png)
+Identical to Pixegami's original except for Gruvbox inspired terminal colors. I take no credit for any of the scripts or setup otherwise.
+
+![terminal](pictures/gruvbox_style_terminal.png)
 
 This is my profile for UNIX (MacOS/Linux) terminals. For Ubuntu, I just use the default terminal
 app. For MacOS, I use [iTerm2](https://iterm2.com/).

@@ -1,16 +1,16 @@
 [/]
-background-color='rgb(12,28,37)'
+background-color='rgb(28,28,28)'
 background-transparency-percent=3
-bold-color='#bdbdc3c3c7c7'
+bold-color='rgb(29, 20, 21)'
 bold-color-same-as-fg=true
 custom-command=''
 font='Roboto Mono for Powerline 14'
-foreground-color='rgb(134,255,175)'
+foreground-color='rgb(251,241,199)'
 login-shell=false
-palette=['rgb(21,37,53)', 'rgb(255,60,60)', 'rgb(73,255,109)', 'rgb(255,188,81)', 'rgb(61,182,249)', 'rgb(142,68,173)', 'rgb(22,160,133)', 'rgb(189,195,199)', 'rgb(38,56,75)', 'rgb(255,60,76)', 'rgb(147,255,145)', 'rgb(255,208,87)', 'rgb(91,215,255)', 'rgb(155,89,182)', 'rgb(32,92,87)', 'rgb(255,255,255)']
+palette = ['rgb(190,135,51)', 'rgb(251,73,52)', 'rgb(174,176,86)', 'rgb(250,189,47)', 'rgb(131,165,152)', 'rgb(211,134,155)', 'rgb(142,192,124)', 'rgb(189,195,199)', 'rgb(168,114,87)', 'rgb(204,36,29)', 'rgb(163,231,163)', 'rgb(223,196,28)', 'rgb(91,183,164)', 'rgb(137,82,167)', 'rgb(50,58,57)', 'rgb(253,244,193)']
 use-custom-command=false
 use-system-font=false
 use-theme-colors=false
 use-theme-transparency=false
 use-transparent-background=false
-visible-name='Pixegami'
+visible-name='Niklas'
